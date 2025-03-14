@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes: all
+}
+  
+
+
+
+@media (max-width: 1024px) {
+    .hideOrShow {
+        display: none;
+    }
+  }
